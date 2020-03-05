@@ -1,4 +1,13 @@
-# 知乎- Flutter 高仿版 UI
+<!--
+ * @Author: your name
+ * @Date: 2018-09-22 11:31:42
+ * @LastEditTime: 2020-03-05 14:28:56
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /mongLa/README.md
+ -->
+
+# 勐拉生活网- Flutter 高仿版 UI
 
 使用 Flutter 模仿的知乎黑色主题的 UI。
 
@@ -10,7 +19,7 @@
 
 现在我使用 Flutter 已经 5，6 个月了。我的更多 Flutter 的分享在：https://zhuanlan.zhihu.com/flutter
 
-## APP截图
+## APP 截图
 
 ![wei](./image/1.png)
 ![wei](./image/2.png)
