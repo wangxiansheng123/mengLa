@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2018-09-22 11:31:42
- * @LastEditTime: 2020-03-05 14:32:45
+ * @LastEditTime: 2020-03-05 15:58:52
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /mongLa/README.md
@@ -17,7 +17,7 @@
 
 照着这个 demo ，两三天做下来，一周入门不是问题。
 
-现在我使用 Flutter 已经 5，6 个月了。我的更多 Flutter 的分享在：https://zhuanlan.zhihu.com/flutter
+<!-- 现在我使用 Flutter 已经 5，6 个月了。我的更多 Flutter 的分享在：https://zhuanlan.zhihu.com/flutter -->
 
 ## APP 截图
 
